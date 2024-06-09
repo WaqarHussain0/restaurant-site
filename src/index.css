@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: cotoris;
+  src: url(../src/assets/fonts/Cotoris.ttf);
+}
+.cotoris {
+  font-family: cotoris;
+}
+
+@font-face {
+  font-family: cotorisbold;
+  src: url(../src/assets/fonts/CotorisBold.ttf);
+}
+.cotoris-bold {
+  font-family: cotorisbold;
+}
+
+@font-face {
+  font-family: interR;
+  src: url(../src/assets/fonts/Inter-Regular.ttf);
+}
+.interR {
+  font-family: interR;
+}
+
+@font-face {
+  font-family: interL;
+  src: url(../src/assets/fonts/Inter-Light.ttf);
+}
+.interL {
+  font-family: interL;
+}
+
+@font-face {
+  font-family: poppinR;
+  src: url(../src/assets/fonts/Poppins-Regular.ttf);
+}
+.poppinR {
+  font-family: poppinR;
+}
+
+@font-face {
+  font-family: poppinM;
+  src: url(../src/assets/fonts/Poppins-Medium.ttf);
+}
+.poppinM {
+  font-family: poppinM;
+}
